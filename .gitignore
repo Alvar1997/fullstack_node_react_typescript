@@ -15,5 +15,5 @@ node_modules/
 *.exe
 *.class
 
-# Ignorar carpeta dist
+# Ignorar la carpeta de distribución
 dist/
